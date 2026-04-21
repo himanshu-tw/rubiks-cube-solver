@@ -1,1 +1,1 @@
-print("hello world")
+print("This is a rubik's cube solver.")
